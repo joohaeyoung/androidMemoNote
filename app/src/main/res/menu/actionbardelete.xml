@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:android2="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_delete"
+        android:icon="@drawable/ic_clear_black_24dp"
+        android:title="memo delete"
+        android2:showAsAction="always"
+        android2:title="memo delete" />
+
+
+</menu>
